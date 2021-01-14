@@ -1,0 +1,31 @@
+# 猜数游戏 GuessNum
+
+## 简介
+
+在自习课时无聊的产物，随机生成一个数，不停的猜，缩短区间，直到猜到为止
+
+本小游戏支持多人、单人游玩
+
+## 开源
+
+采用[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.txt)协议开源
+
+Gitee仓库：https://gitee.com/imjinglan/guess-num/
+
+GitHub仓库暂不维护。。。。。
+
+
+
+## 发行版
+
+Gitee(需登录，速度较快)：https://gitee.com/imjinglan/guess-num/releases/latest
+
+本地下载(无需登录，速度较慢)：
+[Net3.5点我下载](http://lan.lt5d.cn/download/guessnum/Net35.exe)
+
+[Net4.0点我下载](http://lan.lt5d.cn/download/guessnum/Net40.exe)
+
+
+## 关于版本：
+Net3.5使用 .NET Framework 3.5 运行库 ， 兼容性更强
+Net4.0使用 .NET Framework 4.5 运行库， UI更加美观)
